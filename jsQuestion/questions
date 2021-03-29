@@ -1,0 +1,12 @@
+1. What are the drawback of writing methods in object? 
+2. What is closure in javascript? Explain with example
+3. Write a mul function which will work properly when invoked with following syntax.
+            console.log(mul(2)(3)(4)); // output : 24
+            console.log(mul(4)(3)(4)); // output : 48
+
+ 
+4.  Question: = what should be the value of x Ans is NAN
+    if( x <= 100 ) {...}
+    if( !(x > 100) ) {...}
+
+5 diffence between splice and slice
